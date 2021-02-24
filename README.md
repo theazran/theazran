@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm M Asran👋
 
 <!--
 **theazran/theazran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theazran&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theazran&repo=koped-bot)](https://github.com/theazran/koped-bot)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theazran&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theazran)](https://github.com/theazran/theazran)
