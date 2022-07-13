@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theazran&show_icons=true&theme=radical)
 
+### ⌚ Coding Stats
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
