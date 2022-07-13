@@ -29,3 +29,5 @@ No activity tracked
 ### 🎵 Playing Music
 <!--START_SECTION:waka-->
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144e5f7jctqtfanspojcwdy57bi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3144e5f7jctqtfanspojcwdy57bi)
