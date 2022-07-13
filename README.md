@@ -1,5 +1,6 @@
 ### Hi there i'm M Asran👋
-
+![Sing Ndelok](https://komarev.com/ghpvc/?username=theazran&color=green)
+ 
 <!--
 **theazran/theazran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
