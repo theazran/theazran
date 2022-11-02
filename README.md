@@ -1,6 +1,6 @@
 ### Hi there i'm M Asran👋
 ![Sing Ndelok](https://komarev.com/ghpvc/?username=theazran&color=green)
-
+![theazran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ### 🎵 Playing Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ovrxia9jos4njv2ioednhcw0&cover_image=false&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
